@@ -1,0 +1,26 @@
+class:: SimplexSynth
+summary:: UGen implementation of Simplex noise
+related:: TODO
+categories:: UGens>TODO
+
+description::
+
+UGen implementation of Simplex noise
+
+
+classmethods::
+
+method::ar, kr
+
+argument::TODO
+
+argument::TODO
+
+
+examples::
+
+code::
+
+{ SimplexSynth.ar(/* TODO */) }.play
+
+::
