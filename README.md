@@ -20,7 +20,7 @@ Clone the project:
 
 Then, use CMake to configure and build it:
 
-    cmake .. -DCMAKE_BUILD_TYPE=Release
+    cmake .. -DCMAKE_BUILD_TYPE=Release -DSC_PATH=/path/to/supercollider
     cmake --build . --config Release
     cmake --build . --config Release --target install
 
