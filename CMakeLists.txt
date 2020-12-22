@@ -67,6 +67,8 @@ endif()
 set(SimplexSynth_cpp_files
     plugins/SimplexSynth/SimplexSynth.cpp
     plugins/SimplexSynth/SimplexSynth.hpp
+    plugins/SimplexSynth/SimplexNoise.cpp
+    plugins/SimplexSynth/SimplexNoise.h
 )
 set(SimplexSynth_sc_files
     plugins/SimplexSynth/SimplexSynth.sc
