@@ -1,0 +1,13 @@
+SimplexSynth	/Users/ericsluyter/Library/Application Support/SuperCollider/Extensions/simplexsynth/plugins/SimplexSynth/SimplexSynth.sc	/^SimplexSynth : UGen {$/;"	class	line:1
+*ar	/Users/ericsluyter/Library/Application Support/SuperCollider/Extensions/simplexsynth/plugins/SimplexSynth/SimplexSynth.sc	/^	*ar { |freq=100, offsetX=0, offsetY=0, radius=2, oct=3, syncSig=(DC.ar(0)), iphase=0|$/;"	method	line:2
+*ar2	/Users/ericsluyter/Library/Application Support/SuperCollider/Extensions/simplexsynth/plugins/SimplexSynth/SimplexSynth.sc	/^	*ar2 { |x=0, y=0, oct=3|$/;"	method	line:15
+checkInputs	/Users/ericsluyter/Library/Application Support/SuperCollider/Extensions/simplexsynth/plugins/SimplexSynth/SimplexSynth.sc	/^	checkInputs {$/;"	method	line:20
+SimplexSynth	/Users/ericsluyter/Library/Application Support/SuperCollider/Extensions/simplexsynth/plugins/SimplexSynth/SimplexSynth.hpp	/^namespace SimplexSynth {$/;"	namespace	line:8
+SimplexSynth	/Users/ericsluyter/Library/Application Support/SuperCollider/Extensions/simplexsynth/plugins/SimplexSynth/SimplexSynth.hpp	/^class SimplexSynth : public SCUnit {$/;"	class	line:10	namespace:SimplexSynth
+phase	/Users/ericsluyter/Library/Application Support/SuperCollider/Extensions/simplexsynth/plugins/SimplexSynth/SimplexSynth.hpp	/^    double phase;$/;"	member	line:22	class:SimplexSynth::SimplexSynth
+sd	/Users/ericsluyter/Library/Application Support/SuperCollider/Extensions/simplexsynth/plugins/SimplexSynth/SimplexSynth.hpp	/^    double sd;$/;"	member	line:23	class:SimplexSynth::SimplexSynth
+ft	/Users/ericsluyter/Library/Application Support/SuperCollider/Extensions/simplexsynth/plugins/SimplexSynth/SimplexSynth.cpp	/^static InterfaceTable* ft;$/;"	variable	line:10	file:
+SimplexSynth	/Users/ericsluyter/Library/Application Support/SuperCollider/Extensions/simplexsynth/plugins/SimplexSynth/SimplexSynth.cpp	/^namespace SimplexSynth {$/;"	namespace	line:12	file:
+SimplexSynth	/Users/ericsluyter/Library/Application Support/SuperCollider/Extensions/simplexsynth/plugins/SimplexSynth/SimplexSynth.cpp	/^SimplexSynth::SimplexSynth() {$/;"	function	line:14	class:SimplexSynth::SimplexSynth	signature:()
+next	/Users/ericsluyter/Library/Application Support/SuperCollider/Extensions/simplexsynth/plugins/SimplexSynth/SimplexSynth.cpp	/^void SimplexSynth::next(int nSamples) {$/;"	function	line:21	class:SimplexSynth::SimplexSynth	signature:(int nSamples)
+PluginLoad	/Users/ericsluyter/Library/Application Support/SuperCollider/Extensions/simplexsynth/plugins/SimplexSynth/SimplexSynth.cpp	/^PluginLoad(SimplexSynthUGens) {$/;"	function	line:51	signature:(SimplexSynthUGens)

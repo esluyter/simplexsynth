@@ -19,6 +19,8 @@ private:
     void next(int nSamples);
 
     // Member variables
+    double phase;
+    double sd;
 };
 
 } // namespace SimplexSynth

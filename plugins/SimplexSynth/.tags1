@@ -1,0 +1,11 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	0	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.8	//
+ft	/Users/ericsluyter/Library/Application Support/SuperCollider/Extensions/simplexsynth/plugins/SimplexSynth/SimplexSynth.cpp	/^static InterfaceTable* ft;$/;"	variable	line:10	file:
+SimplexSynth	/Users/ericsluyter/Library/Application Support/SuperCollider/Extensions/simplexsynth/plugins/SimplexSynth/SimplexSynth.cpp	/^namespace SimplexSynth {$/;"	namespace	line:12	file:
+SimplexSynth	/Users/ericsluyter/Library/Application Support/SuperCollider/Extensions/simplexsynth/plugins/SimplexSynth/SimplexSynth.cpp	/^SimplexSynth::SimplexSynth() {$/;"	function	line:14	class:SimplexSynth::SimplexSynth	signature:()
+next	/Users/ericsluyter/Library/Application Support/SuperCollider/Extensions/simplexsynth/plugins/SimplexSynth/SimplexSynth.cpp	/^void SimplexSynth::next(int nSamples) {$/;"	function	line:21	class:SimplexSynth::SimplexSynth	signature:(int nSamples)
+PluginLoad	/Users/ericsluyter/Library/Application Support/SuperCollider/Extensions/simplexsynth/plugins/SimplexSynth/SimplexSynth.cpp	/^PluginLoad(SimplexSynthUGens) {$/;"	function	line:51	signature:(SimplexSynthUGens)
